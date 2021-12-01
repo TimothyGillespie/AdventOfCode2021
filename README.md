@@ -5,5 +5,5 @@ I may very well use the challenges to try other, different programming languages
 
 #
 
-####[Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1)
+##[Day 1: Sonar Sweep](https://adventofcode.com/2021/day/1)
 First attempted with Scala, but I was unhappy with the architecture. So I did it briefly in bash.
