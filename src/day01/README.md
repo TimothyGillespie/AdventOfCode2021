@@ -10,13 +10,13 @@ To run this example locate your working directory to this directory.
 
 Then run 
 ```
-./solution.bash < input.txt
+./solution1.bash < input.txt
 ```
 
 or alternatively
 
 ```
-cat input.txt | ./solution.bash
+cat input.txt | ./solution1.bash
 ```
 
 You can run the test with
@@ -24,11 +24,19 @@ You can run the test with
 ./test.bash
 ```
 
+The second part can be executed as similarly with
+```
+./solution2.bash < input.txt
+```
+
+```
+cat input.txt | ./solution2.bash
+```
 
 If permissions are denied try to give permissions:
 
 ```
-sudo chmod +x ./solution.bash ./test.bash
+sudo chmod +x ./solution1.bash ./solution2.bash ./test.bash
 sudo chmod +r ./input.txt
 ```
 
@@ -44,3 +52,5 @@ https://www.hostinger.com/tutorials/bash-for-loop-guide-and-examples/
 https://ryanstutorials.net/bash-scripting-tutorial/bash-arithmetic.php
 https://stackoverflow.com/questions/806906/how-do-i-test-if-a-variable-is-a-number-in-bash
 https://www.javatpoint.com/bash-read-file
+https://kaijento.github.io/2017/03/19/bash-read-file-into-array/
+https://www.cyberciti.biz/faq/finding-bash-shell-array-length-elements/
