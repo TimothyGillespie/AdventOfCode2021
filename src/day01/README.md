@@ -47,10 +47,17 @@ I was comfortable with the basic of bash, however, I do not write bash script re
 I used the following sources to complete this task:
 
 https://stackoverflow.com/questions/1975849/how-to-split-a-line-into-words-separated-by-one-or-more-spaces-in-bash
+
 https://ryanstutorials.net/bash-scripting-tutorial/bash-if-statements.php
+
 https://www.hostinger.com/tutorials/bash-for-loop-guide-and-examples/
+
 https://ryanstutorials.net/bash-scripting-tutorial/bash-arithmetic.php
+
 https://stackoverflow.com/questions/806906/how-do-i-test-if-a-variable-is-a-number-in-bash
+
 https://www.javatpoint.com/bash-read-file
+
 https://kaijento.github.io/2017/03/19/bash-read-file-into-array/
+
 https://www.cyberciti.biz/faq/finding-bash-shell-array-length-elements/
