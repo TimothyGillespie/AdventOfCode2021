@@ -32,8 +32,6 @@ https://www.reddit.com/r/adventofcode/comments/r9cc2h/2021_day_5_scatterplot_of_
 ![Visulization 6](https://i.redd.it/s1yk4epq7t381.png)
 https://www.reddit.com/r/adventofcode/comments/r9su6l/my_input_solution_exported_to_excel_d/
 
-![Visulization 4]()
-
 Video Visualizations:
 
 Unity Stranger Vents: https://www.reddit.com/r/adventofcode/comments/r9sxo9/2021_day_5_stranger_vents_unity/
