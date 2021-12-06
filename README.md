@@ -54,9 +54,19 @@ Jon seems to be suffering quite a lot when you read his commit messages.
 
 [Try APL](https://tryapl.org/)
 
+### James Stanley's Own Computer and Language
+I think the title speaks for itself. He also showcases each day's solution
+
+[Go To James Stanely's Solutions](https://github.com/jes/aoc2021)
+
+### u/AvshalomHeironymous Prolog Solutions
+He simply posts them on reddit but does not seem to collect them otherwise. His only posts are about AoC2021.
+
+[Go To u/AvshalomHeironymous' Reddit Profile](https://www.reddit.com/user/AvshalomHeironymous/)
+
 ## Fun Facts
 
-### Yoast's Advertisement
+### Yoast's Advertisement Morse Code
 The company Yoast advertised their job positions on AoC. This was their ad:
 
 ```
