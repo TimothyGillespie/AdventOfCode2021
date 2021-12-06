@@ -30,3 +30,7 @@ https://www.tutorialspoint.com/dart_programming/dart_programming_map.htm
 https://zetcode.com/dart/function/
 
 https://coflutter.com/dart-flutter-how-to-clone-copy-a-list/
+
+# Visualization
+
+https://twitter.com/Sol_HSA/status/1466657677740761095

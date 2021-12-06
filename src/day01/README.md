@@ -61,3 +61,8 @@ https://www.javatpoint.com/bash-read-file
 https://kaijento.github.io/2017/03/19/bash-read-file-into-array/
 
 https://www.cyberciti.biz/faq/finding-bash-shell-array-length-elements/
+
+
+# Visualization 
+
+https://twitter.com/Sol_HSA/status/1465956538246475776
