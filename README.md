@@ -59,7 +59,7 @@ I think the title speaks for itself. He also showcases each day's solution
 
 [Go To James Stanely's Solutions](https://github.com/jes/aoc2021)
 
-### u/AvshalomHeironymous Prolog Solutions
+### u/AvshalomHeironymous' Prolog Solutions
 He simply posts them on reddit but does not seem to collect them otherwise. His only posts are about AoC2021.
 
 [Go To u/AvshalomHeironymous' Reddit Profile](https://www.reddit.com/user/AvshalomHeironymous/)
