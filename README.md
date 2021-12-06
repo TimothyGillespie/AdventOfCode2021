@@ -64,6 +64,11 @@ He simply posts them on reddit but does not seem to collect them otherwise. His 
 
 [Go To u/AvshalomHeironymous' Reddit Profile](https://www.reddit.com/user/AvshalomHeironymous/)
 
+### BluePsychoRanger's Minecraft Solutions
+Yep, only really became known to me due to his visualization for the day 5 challenge: https://www.reddit.com/r/adventofcode/comments/r9dq0y/2021_day_5_visualization_in_minecraft/
+
+[Go To BluePsychoRanger's Solutions](https://github.com/BluePsychoRanger/Advent-of-Code-2021)
+
 ## Fun Facts
 
 ### Yoast's Advertisement Morse Code
