@@ -39,6 +39,20 @@ Here, I go back to node, but use TypeScript instead of JavaScript.
 [Go To The Code](src/day05)
 
 
+## Other Interesting AoC 2021 Projects
+
+### Jon Mikoš' APL Solutions
+APL is a very old programming language which did not stand the test of time.
+It did need its own keyboards as it used quite many special characters. Apart from that I have no idea about APL which 
+only seem cryptic but not old.
+
+Interestingly enough its last stable release was in 2001 (according to Wikipedia).
+
+Jon seems to be suffering quite a lot when you read his commit messages.
+
+[Go To Jon Mikoš' Solutions](https://github.com/MikosJon/AdventOfCode2021)
+
+[Try APL](https://tryapl.org/)
 
 ## Fun Facts
 
