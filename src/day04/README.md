@@ -8,3 +8,9 @@ using Kotlin further until I figured out how to get it running properly only wit
 `kotlinc` and the JavaVM.
 
 Splitting the files for reuse only made it more difficult.
+
+
+# Visualization of Part 2 by u/Pyroan
+Looking quite pretty
+
+https://www.reddit.com/r/adventofcode/comments/r8wq0c/2021_day_4_bingo_blinkenlights/
