@@ -59,7 +59,7 @@ I think the title speaks for itself. He also showcases each day's solution
 
 [Go To James Stanely's Solutions](https://github.com/jes/aoc2021)
 
-### u/AvshalomHeironymous Prolog Solutions
+### u/AvshalomHeironymous' Prolog Solutions
 He simply posts them on reddit but does not seem to collect them otherwise. His only posts are about AoC2021.
 
 [Go To u/AvshalomHeironymous' Reddit Profile](https://www.reddit.com/user/AvshalomHeironymous/)
@@ -69,10 +69,17 @@ Yep, only really became known to me due to his visualization for the day 5 chall
 
 [Go To BluePsychoRanger's Solutions](https://github.com/BluePsychoRanger/Advent-of-Code-2021)
 
-### [Mathgeek's Excel Solutions](https://www.youtube.com/watch?v=JmjQevLLc6I&list=PLQQET3QPz-w2Fe7JjId4ENr7i9NpMjtwC)
+### Mathgeek's Excel Solutions
 Well, of course someone is going to try to solve it with Excel. [And he is not the only one.](https://www.reddit.com/r/adventofcode/comments/r9pf87/please_make_the_inputs_smaller_i_am_starting_to/)
 
 Excel solutions are not usually posted or displayed as programming language code is, so I love his display via the videos he puts out.
+
+[Go To Mathgeek's YouTube Playlist](https://www.youtube.com/watch?v=JmjQevLLc6I&list=PLQQET3QPz-w2Fe7JjId4ENr7i9NpMjtwC)
+
+### gottfired's GitHub Copilot Solutions
+gottfired's attempts to solve all challenges only with GitHub Copilot via comments as he explains in this Reddit Thread: https://www.reddit.com/r/adventofcode/comments/r9lpnd/copilot_edition/
+
+[Go To gottfired's Solutions](https://github.com/gottfired/advent-of-code-2021-copilot-edition)
 
 ## Fun Facts
 
